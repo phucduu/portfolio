@@ -7,8 +7,8 @@ window.PORTFOLIO_VIDEOS = [
     "videoId": "1ZZy-MxVHLzneqsVTgd8d1-qB5REJJcPD",
     "videoName": "NOMNA_ĐI DỰ TIỆC, ĐỪNG ĐI LO TIỆC_001.mp4",
     "url": "https://drive.google.com/file/d/1ZZy-MxVHLzneqsVTgd8d1-qB5REJJcPD/view?usp=drivesdk",
-    "poster": "assets/nomna.webp",
-    "preview": "assets/nomna-preview.mp4"
+    "poster": "nomna.webp",
+    "preview": "nomna-preview.mp4"
   },
   {
     "key": "kol-nangthu",
@@ -18,8 +18,8 @@ window.PORTFOLIO_VIDEOS = [
     "videoId": "17-gU6XrmjvEwhU85Y64JiBl1bsIiw9G5",
     "videoName": "HARNNn_002.mp4",
     "url": "https://drive.google.com/file/d/17-gU6XrmjvEwhU85Y64JiBl1bsIiw9G5/view?usp=drivesdk",
-    "poster": "assets/harnn.webp",
-    "preview": "assets/harnn-preview.mp4"
+    "poster": "harnn.webp",
+    "preview": "harnn-preview.mp4"
   },
   {
     "key": "shondo",
